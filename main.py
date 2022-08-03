@@ -3,7 +3,6 @@ Created on Tue Jul  28 17:06:01 2019
 
 @author: Karthik Saran
 """
-from scipy.sparse import issparse
 import streamlit as st
 import pickle 
 import streamlit as st
